@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Balao.java" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4a8d10b-6eb0-4f5f-9d1f-fbe7c98203f0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ProjetoBase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>suport</find>
+      <find>//ficha 2</find>
+      <find>balao</find>
+      <find>Balao</find>
+      <find>intera</find>
+      <find>explo</find>
+      <find>aga</find>
+      <find>posicao</find>
+      <find>iterar</find>
+      <find>//</find>
+      <find>informar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\MeoCloud\2016_2017_P2\Práticas\Aula 05 - AB blast 3\Projeto - Ficha3\src</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Suportado.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/SuportadoSensivelOndaChoque.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/SuportadoSensivel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/SuportadoSensivelComForca.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Porco.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Madeira.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Vidro.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/SuportadoSensivel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/SuportadoSensivelOndaChoque.java" />
+        <option value="$PROJECT_DIR$/src/ServeCoffee.feature" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Objetivavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/BonusFoguete.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Direcao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/BaseSuporte.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ObjetoComAreaJogavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Agrupavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/SuportadoAgrupavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Iteravel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ReagenteFoguete.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Interativo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/DelegacaoEspecie.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/DelegadoEspecie.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ObjetoComEspecie.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/InterativoPosicao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoSensivelOndaChoque.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcial.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoJogo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Suportado.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Posicao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/InterativoPosicao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SensivelOndaChoque.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/utils/Sentido.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/utils/Direcao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoSensivelOndaChoqueComForca.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Vidro.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoAgrupavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Porco.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Madeira.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Foguete.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Balao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcialPorco.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcialBalao.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/Objetivo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/BaseSuportadora.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/BaseAr.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/Base.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/Main.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Jogo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/OuvinteJogo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/AreaJogavel.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/RepresentadorTextual.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objetivos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="SearchEverywhereHistoryKey" value="getJogo&#9;PSI&#9;JAVA://pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado#getJogo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="pt.ipleiria.estg.ei.p2.blast.modelo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MeoCloud\2016_2017_P2\Práticas\Aula 04 - AB blast 2\Projeto\src\pt\ipleiria\estg\ei\p2\blast\modelo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.ipleiria.estg.ei.p2.blast.modelo" />
+      <recent name="pt.ipleiria.estg.ei.p2.blast.modelo.suportados" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.ipleiria.estg.ei.p2.blast.modelo.suportados" />
+      <recent name="pt.ipleiria.estg.ei.p2.blast.modelo" />
+      <recent name="pt.ipleiria.estg.ei.p2.blast" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipleiria.estg.ei.p2.blast.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projeto" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projeto" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4a8d10b-6eb0-4f5f-9d1f-fbe7c98203f0" name="Default" comment="" />
+      <created>1488211035030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488211035030</updated>
+      <workItem from="1488211037864" duration="3541000" />
+      <workItem from="1488305135037" duration="821000" />
+      <workItem from="1488373683539" duration="4625000" />
+      <workItem from="1488378644064" duration="230000" />
+      <workItem from="1488501574995" duration="1152000" />
+      <workItem from="1488660249711" duration="1962000" />
+      <workItem from="1488829066874" duration="129000" />
+      <workItem from="1488829307821" duration="24656000" />
+      <workItem from="1489146203218" duration="8943000" />
+      <workItem from="1489274335333" duration="8078000" />
+      <workItem from="1489355279352" duration="556000" />
+      <workItem from="1489358687287" duration="9123000" />
+      <workItem from="1489521785591" duration="68000" />
+      <workItem from="1489570405440" duration="1569000" />
+      <workItem from="1489845171565" duration="11079000" />
+      <workItem from="1490176186981" duration="6498000" />
+      <workItem from="1490184429422" duration="1170000" />
+      <workItem from="1490185727505" duration="373000" />
+      <workItem from="1490210353725" duration="1306000" />
+      <workItem from="1490778430971" duration="11214000" />
+      <workItem from="1491381994267" duration="4455000" />
+      <workItem from="1491386991082" duration="21000" />
+      <workItem from="1491392241101" duration="1479000" />
+      <workItem from="1491403216307" duration="25000" />
+      <workItem from="1491471084678" duration="153000" />
+      <workItem from="1491487644044" duration="22000" />
+      <workItem from="1492535769110" duration="1025000" />
+      <workItem from="1492590223398" duration="5518000" />
+      <workItem from="1492596370205" duration="1057000" />
+      <workItem from="1492605917124" duration="152000" />
+      <workItem from="1492699624678" duration="900000" />
+      <workItem from="1492768684508" duration="598000" />
+      <workItem from="1492769298097" duration="2000" />
+      <workItem from="1492769398257" duration="90000" />
+      <workItem from="1492769566096" duration="3000" />
+      <workItem from="1492769585190" duration="19000" />
+      <workItem from="1492769628162" duration="16000" />
+      <workItem from="1492771848117" duration="28000" />
+      <workItem from="1492772445803" duration="6062000" />
+      <workItem from="1492780984635" duration="3369000" />
+      <workItem from="1492806325978" duration="31000" />
+      <workItem from="1492973649513" duration="3365000" />
+      <workItem from="1492987266455" duration="6928000" />
+      <workItem from="1493026972322" duration="805000" />
+      <workItem from="1493040143295" duration="578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133794000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3578352" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2253635" sideWeight="0.49192363" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32552955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.105815835" sideWeight="0.5058043" order="7" side_tool="false" content_ui="tabs" x="89" y="302" width="480" height="298" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26332796" sideWeight="0.50807637" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.282516" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.282516" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.105815835" sideWeight="0.5058043" order="7" side_tool="false" content_ui="tabs" x="89" y="302" width="480" height="298" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35820895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22228146" sideWeight="0.49192363" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32552955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26332796" sideWeight="0.50807637" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Balao.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ObjetoComEspecie.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Foguete.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Suportado.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Porco.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Especie.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/AreaJogavel.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/diagram.png" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/utils/Direcao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/utils/Posicao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/utils/Sentido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoSensivelOndaChoque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoSensivelOndaChoqueComForca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Vidro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/SuportadoAgrupavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Suportado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Porco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Madeira.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Foguete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="26" column="51" lean-forward="false" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/_diagrama_objetivos.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="164.0" y="146.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial</node>
+            <node x="312.0" y="0.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo</node>
+            <node x="412.0" y="124.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoJogo</node>
+            <node x="267.0" y="360.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialBalao</node>
+            <node x="0.0" y="382.5">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialPorco</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo">
+              <point x="0.0" y="-71.0" />
+              <point x="278.0" y="99.0" />
+              <point x="372.0" y="99.0" />
+              <point x="-60.0" y="37.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoJogo" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo">
+              <point x="0.0" y="-93.0" />
+              <point x="586.0" y="99.0" />
+              <point x="492.0" y="99.0" />
+              <point x="60.0" y="37.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialBalao" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial">
+              <point x="0.0" y="-71.0" />
+              <point x="432.5" y="335.0" />
+              <point x="335.0" y="335.0" />
+              <point x="57.0" y="71.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialPorco" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial">
+              <point x="0.0" y="-48.5" />
+              <point x="123.5" y="335.0" />
+              <point x="221.0" y="335.0" />
+              <point x="-57.0" y="71.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="70.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/Balao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/_diagrama_bases.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseAr</node>
+            <node x="" y="">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora</node>
+            <node x="" y="">pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="635.0" y="332.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/suportados/_diagrama_suportados.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="804.0" y="405.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca</node>
+            <node x="714.5" y="696.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira</node>
+            <node x="246.5" y="214.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel</node>
+            <node x="545.125" y="0.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado</node>
+            <node x="0.0" y="383.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao</node>
+            <node x="451.0" y="383.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete</node>
+            <node x="1097.0" y="449.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro</node>
+            <node x="948.5" y="685.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco</node>
+            <node x="914.0" y="247.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+              <point x="0.0" y="-59.5" />
+              <point x="1226.5" y="358.0" />
+              <point x="1168.25" y="358.0" />
+              <point x="84.75" y="26.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+              <point x="0.0" y="-104.0" />
+              <point x="940.5" y="358.0" />
+              <point x="998.75" y="358.0" />
+              <point x="-84.75" y="26.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+              <point x="0.0" y="-37.5" />
+              <point x="1059.5" y="660.0" />
+              <point x="1008.75" y="660.0" />
+              <point x="68.25" y="104.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+              <point x="0.0" y="-26.0" />
+              <point x="1083.5" y="189.0" />
+              <point x="809.125" y="189.0" />
+              <point x="88.0" y="82.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+              <point x="0.0" y="-126.0" />
+              <point x="617.5" y="358.0" />
+              <point x="501.5" y="358.0" />
+              <point x="85.0" y="59.5" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+              <point x="0.0" y="-59.5" />
+              <point x="416.5" y="189.0" />
+              <point x="633.125" y="189.0" />
+              <point x="-88.0" y="82.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+              <point x="0.0" y="-26.0" />
+              <point x="821.5" y="660.0" />
+              <point x="872.25" y="660.0" />
+              <point x="-68.25" y="104.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+              <point x="0.0" y="-126.0" />
+              <point x="215.5" y="358.0" />
+              <point x="331.5" y="358.0" />
+              <point x="-85.0" y="59.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="458.0" y="125.0" />
+          <SelectedNodes>
+            <node>pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/_diagrama_completo_simplificado.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/SensivelOndaChoque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ReagenteFoguete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/OuvinteJogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ObjetoComEspecie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/ObjetoComAreaJogavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Objetivavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Jogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="84" column="32" lean-forward="false" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Iteravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/InterativoPosicao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Interativo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/EstadoJogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/Especie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/DelegadoEspecie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/_diagrama_completo_simplificado.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="194.5" y="315.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo</node>
+            <node x="254.5" y="395.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoJogo</node>
+            <node x="0.0" y="550.0">pt.ipleiria.estg.ei.p2.blast.modelo.DelegadoEspecie</node>
+            <node x="-223.75" y="546.0">pt.ipleiria.estg.ei.p2.blast.modelo.Jogo</node>
+            <node x="355.5" y="240.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira</node>
+            <node x="-416.5" y="626.0">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora</node>
+            <node x="231.875" y="0.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado</node>
+            <node x="-257.5" y="626.0">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseAr</node>
+            <node x="0.0" y="160.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao</node>
+            <node x="497.0" y="550.0">pt.ipleiria.estg.ei.p2.blast.modelo.Especie</node>
+            <node x="-471.0" y="347.0">pt.ipleiria.estg.ei.p2.blast.modelo.Iteravel</node>
+            <node x="-446.0" y="216.0">pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComEspecie</node>
+            <node x="505.0" y="160.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro</node>
+            <node x="25.0" y="642.0">pt.ipleiria.estg.ei.p2.blast.modelo.InterativoPosicao</node>
+            <node x="-36.0" y="-81.0">pt.ipleiria.estg.ei.p2.blast.modelo.ReagenteFoguete</node>
+            <node x="337.25" y="80.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque</node>
+            <node x="-321.0" y="466.0">pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComAreaJogavel</node>
+            <node x="212.0" y="160.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca</node>
+            <node x="494.0" y="386.0">pt.ipleiria.estg.ei.p2.blast.modelo.SensivelOndaChoque</node>
+            <node x="-391.0" y="-78.0">pt.ipleiria.estg.ei.p2.blast.modelo.Interativo</node>
+            <node x="13.0" y="80.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel</node>
+            <node x="0.0" y="475.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialBalao</node>
+            <node x="-138.0" y="265.0">pt.ipleiria.estg.ei.p2.blast.modelo.Objetivavel</node>
+            <node x="104.5" y="395.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial</node>
+            <node x="99.0" y="160.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete</node>
+            <node x="254.5" y="240.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco</node>
+            <node x="342.0" y="550.0">pt.ipleiria.estg.ei.p2.blast.modelo.EstadoJogo</node>
+            <node x="184.0" y="550.0">pt.ipleiria.estg.ei.p2.blast.modelo.AreaJogavel</node>
+            <node x="179.0" y="475.0">pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialPorco</node>
+            <node x="-317.75" y="546.0">pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.AreaJogavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.InterativoPosicao">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo">
+              <point x="0.0" y="-15.0" />
+              <point x="169.5" y="370.0" />
+              <point x="218.25" y="370.0" />
+              <point x="-23.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.Interativo">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.SensivelOndaChoque">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.Jogo" target="pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComAreaJogavel">
+              <point x="0.0" y="-15.0" />
+              <point x="-186.25" y="521.0" />
+              <point x="-189.75" y="521.0" />
+              <point x="43.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.Interativo">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.Iteravel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque" target="pt.ipleiria.estg.ei.p2.blast.modelo.SensivelOndaChoque">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.ReagenteFoguete">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.Jogo" target="pt.ipleiria.estg.ei.p2.blast.modelo.Iteravel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+              <point x="0.0" y="-15.0" />
+              <point x="348.5" y="135.0" />
+              <point x="391.75" y="135.0" />
+              <point x="-54.5" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+              <point x="0.0" y="-15.0" />
+              <point x="295.0" y="215.0" />
+              <point x="280.25" y="215.0" />
+              <point x="-68.25" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.Jogo" target="pt.ipleiria.estg.ei.p2.blast.modelo.InterativoPosicao">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao" target="pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComEspecie">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+              <point x="0.0" y="-15.0" />
+              <point x="92.5" y="55.0" />
+              <point x="258.125" y="55.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialBalao" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial">
+              <point x="0.0" y="-15.0" />
+              <point x="79.5" y="450.0" />
+              <point x="137.0" y="450.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.Iteravel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+              <point x="0.0" y="-15.0" />
+              <point x="402.0" y="215.0" />
+              <point x="416.75" y="215.0" />
+              <point x="68.25" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco" target="pt.ipleiria.estg.ei.p2.blast.modelo.Objetivavel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.AreaJogavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.Iteravel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+              <point x="0.0" y="-15.0" />
+              <point x="446.25" y="55.0" />
+              <point x="310.625" y="55.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialPorco" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcial">
+              <point x="0.0" y="-15.0" />
+              <point x="259.5" y="450.0" />
+              <point x="202.0" y="450.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.DelegadoEspecie" target="pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComEspecie">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base">
+              <point x="0.0" y="-15.0" />
+              <point x="-347.0" y="601.0" />
+              <point x="-299.25" y="601.0" />
+              <point x="-18.5" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+              <point x="0.0" y="-15.0" />
+              <point x="39.5" y="135.0" />
+              <point x="52.75" y="135.0" />
+              <point x="-39.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+              <point x="0.0" y="-15.0" />
+              <point x="544.0" y="135.0" />
+              <point x="500.75" y="135.0" />
+              <point x="54.5" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao" target="pt.ipleiria.estg.ei.p2.blast.modelo.Objetivavel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialBalao" target="pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComEspecie">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado" target="pt.ipleiria.estg.ei.p2.blast.modelo.ReagenteFoguete">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+              <point x="0.0" y="-15.0" />
+              <point x="145.5" y="135.0" />
+              <point x="132.25" y="135.0" />
+              <point x="39.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoJogo" target="pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.Objetivo">
+              <point x="0.0" y="-15.0" />
+              <point x="314.5" y="370.0" />
+              <point x="265.75" y="370.0" />
+              <point x="23.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base" target="pt.ipleiria.estg.ei.p2.blast.modelo.ObjetoComAreaJogavel">
+              <point x="0.0" y="-15.0" />
+              <point x="-280.75" y="521.0" />
+              <point x="-277.25" y="521.0" />
+              <point x="-43.75" y="15.0" />
+            </edge>
+            <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseAr" target="pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base">
+              <point x="0.0" y="-15.0" />
+              <point x="-214.5" y="601.0" />
+              <point x="-262.25" y="601.0" />
+              <point x="18.5" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-146.5" y="221.5" />
+          <SelectedNodes>
+            <node>pt.ipleiria.estg.ei.p2.blast.modelo.objetivos.ObjetivoParcialPorco</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/AreaJogavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2158">
+          <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/RepresentadorTextual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2093">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/BaseAr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="76" lean-forward="false" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/bases/BaseSuportadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/Objetivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoJogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcialBalao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/ei/p2/blast/modelo/objetivos/ObjetivoParcialPorco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

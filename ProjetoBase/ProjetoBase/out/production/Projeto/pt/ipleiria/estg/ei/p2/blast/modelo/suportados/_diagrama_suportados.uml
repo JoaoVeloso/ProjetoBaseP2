@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="545.125" y="0.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado</node>
+    <node x="804.0" y="405.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca</node>
+    <node x="0.0" y="383.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao</node>
+    <node x="451.0" y="383.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete</node>
+    <node x="948.5" y="685.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco</node>
+    <node x="1097.0" y="449.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro</node>
+    <node x="714.5" y="696.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira</node>
+    <node x="246.5" y="214.0">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel</node>
+    <node x="914.0" y="247.5">pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Vidro" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+      <point x="0.0" y="-59.5" />
+      <point x="1226.5" y="358.0" />
+      <point x="1168.25" y="358.0" />
+      <point x="84.75" y="26.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque">
+      <point x="0.0" y="-104.0" />
+      <point x="940.5" y="358.0" />
+      <point x="998.75" y="358.0" />
+      <point x="-84.75" y="26.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Porco" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+      <point x="0.0" y="-37.5" />
+      <point x="1059.5" y="660.0" />
+      <point x="1008.75" y="660.0" />
+      <point x="68.25" y="104.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoque" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+      <point x="0.0" y="-26.0" />
+      <point x="1083.5" y="189.0" />
+      <point x="809.125" y="189.0" />
+      <point x="88.0" y="82.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Foguete" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+      <point x="0.0" y="-126.0" />
+      <point x="617.5" y="358.0" />
+      <point x="501.5" y="358.0" />
+      <point x="85.0" y="59.5" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Suportado">
+      <point x="0.0" y="-59.5" />
+      <point x="416.5" y="189.0" />
+      <point x="633.125" y="189.0" />
+      <point x="-88.0" y="82.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Madeira" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoSensivelOndaChoqueComForca">
+      <point x="0.0" y="-26.0" />
+      <point x="821.5" y="660.0" />
+      <point x="872.25" y="660.0" />
+      <point x="-68.25" y="104.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.Balao" target="pt.ipleiria.estg.ei.p2.blast.modelo.suportados.SuportadoAgrupavel">
+      <point x="0.0" y="-126.0" />
+      <point x="215.5" y="358.0" />
+      <point x="331.5" y="358.0" />
+      <point x="-85.0" y="59.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="678.0" y="380.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

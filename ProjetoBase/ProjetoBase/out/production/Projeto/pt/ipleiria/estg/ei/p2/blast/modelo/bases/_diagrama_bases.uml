@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="583.0" y="379.5">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseAr</node>
+    <node x="0.0" y="192.0">pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora</node>
+    <node x="381.25" y="0.0">pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseAr" target="pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base">
+      <point x="0.0" y="-48.5" />
+      <point x="717.0" y="167.0" />
+      <point x="558.25" y="167.0" />
+      <point x="59.0" y="71.0" />
+    </edge>
+    <edge source="pt.ipleiria.estg.ei.p2.blast.modelo.bases.BaseSuportadora" target="pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base">
+      <point x="0.0" y="-236.0" />
+      <point x="281.5" y="167.0" />
+      <point x="440.25" y="167.0" />
+      <point x="-59.0" y="71.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="426.0" y="332.0" />
+  <SelectedNodes>
+    <node>pt.ipleiria.estg.ei.p2.blast.modelo.bases.Base</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
